@@ -18,7 +18,7 @@ This bot automates the process of creating accounts and using referral codes for
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/centic-autoreff.git
+   git clone https://github.com/Kazuha787/centic-autoreff.git
    cd centic-autoreff
    ```
 
